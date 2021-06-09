@@ -32,4 +32,5 @@ b. Average Turnaround time = Total Turnaround Time / Number of process
 
 ### Output Obtained
 
-![Output 1](os 1.jpg)
+![os  1](https://user-images.githubusercontent.com/69143016/121373033-5f6bb300-c95c-11eb-8e46-93f08c185060.jpg)
+
