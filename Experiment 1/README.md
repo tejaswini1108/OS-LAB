@@ -32,4 +32,4 @@ b. Average Turnaround time = Total Turnaround Time / Number of process
 
 ### Output Obtained
 
-![Output 1](os  1.jpg)
+![Output 1](os 1.jpg)
